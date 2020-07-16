@@ -1,0 +1,28 @@
+<html>
+    <head><h2>Lets upgrade</h2></head>
+    <body>
+        <script>
+            let age = prompt("what's your age?")
+            console.log(age)
+        </script>
+    </body>
+</html>
+<html>
+    <head>
+        <body>
+            <script>
+                let age = prompt("Please enter your age");
+                if(age >= 21 )
+                {
+                    console.log("you can drink :)");
+                   
+                }    
+                else
+                {
+                    console.log("you cannot drink :(");
+                    
+                }
+            </script>
+        </body>
+    </head>
+</html>
